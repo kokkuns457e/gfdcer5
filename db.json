@@ -1,0 +1,2909 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "title": "Pizza Hut",
+      "description": "Pizza Hut located at Jayadev Vihar offers a variety of cuisines including Pizzas. Current rating is 4.4.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.4,
+      "stock": null,
+      "tags": [
+        "Pizzas"
+      ],
+      "brand": "Pizza Hut",
+      "sku": "RES-PIZZA-HUT-001",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Jayadev Vihar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/wThPK2Jy/1.jpg",
+      "thumbnail": "https://i.postimg.cc/wThPK2Jy/1.jpg",
+      "menu": [
+        {
+          "name": "Margherita Pizza",
+          "price": 150
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "price": 175
+        },
+        {
+          "name": "Veggie Supreme Pizza",
+          "price": 160
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 180
+        },
+        {
+          "name": "Farmhouse Pizza",
+          "price": 165
+        },
+        {
+          "name": "Paneer Makhani Pizza",
+          "price": 170
+        },
+        {
+          "name": "Double Cheese Pizza",
+          "price": 155
+        },
+        {
+          "name": "Mushroom Delight Pizza",
+          "price": 160
+        },
+        {
+          "name": "Spicy Chicken Pizza",
+          "price": 185
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "price": 170
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "price": 190
+        },
+        {
+          "name": "Garlic Breadsticks",
+          "price": 70
+        },
+        {
+          "name": "Cheesy Garlic Bread",
+          "price": 80
+        },
+        {
+          "name": "Coca-Cola (500ml)",
+          "price": 40
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Spicy Library",
+      "description": "Spicy Library located at Patia offers a variety of cuisines including Chinese, Tandoor, Kebabs. Current rating is 4.3.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.3,
+      "stock": null,
+      "tags": [
+        "Chinese",
+        "Tandoor",
+        "Kebabs"
+      ],
+      "brand": "Spicy Library",
+      "sku": "RES-SPICY-LIBRAR-002",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/jdV9kmWY/2.jpg",
+      "thumbnail": "https://i.postimg.cc/jdV9kmWY/2.jpg",
+      "menu": [
+        {
+          "name": "Veg Hakka Noodles",
+          "price": 130
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 150
+        },
+        {
+          "name": "Chilli Paneer",
+          "price": 160
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 170
+        },
+        {
+          "name": "Veg Spring Rolls",
+          "price": 120
+        },
+        {
+          "name": "Gobi Manchurian",
+          "price": 140
+        },
+        {
+          "name": "Schezwan Fried Rice",
+          "price": 155
+        },
+        {
+          "name": "Sweet Corn Soup",
+          "price": 80
+        },
+        {
+          "name": "Hot & Sour Soup",
+          "price": 85
+        },
+        {
+          "name": "Chicken Lollipop",
+          "price": 165
+        },
+        {
+          "name": "Prawns in Hot Garlic Sauce",
+          "price": 190
+        },
+        {
+          "name": "Veg Momos (Steamed)",
+          "price": 110
+        },
+        {
+          "name": "Chicken Momos (Fried)",
+          "price": 125
+        },
+        {
+          "name": "Kimchi Salad",
+          "price": 70
+        },
+        {
+          "name": "Date Pancake",
+          "price": 95
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Woodfire Biriyani",
+      "description": "Woodfire Biriyani located at BHUBANESWAR offers a variety of cuisines including Biryani, North Indian, Chinese. Current rating is 4.0.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.0,
+      "stock": null,
+      "tags": [
+        "Biryani",
+        "North Indian",
+        "Chinese"
+      ],
+      "brand": "Woodfire Biriyani",
+      "sku": "RES-WOODFIRE-BIR-003",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "BHUBANESWAR",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/ryR3jMw9/3.jpg",
+      "thumbnail": "https://i.postimg.cc/ryR3jMw9/3.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "McDonald's",
+      "description": "McDonald's located at Chandrasekharpur offers a variety of cuisines including American, Fast Food. Current rating is 4.6.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.6,
+      "stock": null,
+      "tags": [
+        "American",
+        "Fast Food"
+      ],
+      "brand": "McDonald's",
+      "sku": "RES-MCDONALD'S-004",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Chandrasekharpur",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/zvhQGScQ/4.jpg",
+      "thumbnail": "https://i.postimg.cc/zvhQGScQ/4.jpg",
+      "menu": [
+        {
+          "name": "French Fries",
+          "price": 60
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Strips",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Corn Dog",
+          "price": 90
+        },
+        {
+          "name": "Hot Dog",
+          "price": 105
+        },
+        {
+          "name": "Cheesy Nachos",
+          "price": 120
+        },
+        {
+          "name": "Veggie Sandwich",
+          "price": 95
+        },
+        {
+          "name": "Club Sandwich",
+          "price": 125
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 115
+        },
+        {
+          "name": "Paneer Roll",
+          "price": 110
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 70
+        },
+        {
+          "name": "Lemonade",
+          "price": 60
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "KFC",
+      "description": "KFC located at Jayadev Vihar offers a variety of cuisines including Burgers, Fast Food, Rolls & Wraps. Current rating is 4.4.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.4,
+      "stock": null,
+      "tags": [
+        "Burgers",
+        "Fast Food",
+        "Rolls & Wraps"
+      ],
+      "brand": "KFC",
+      "sku": "RES-KFC-005",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Jayadev Vihar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/qRSYrZjn/5.jpg",
+      "thumbnail": "https://i.postimg.cc/qRSYrZjn/5.jpg",
+      "menu": [
+        {
+          "name": "Classic Veg Burger",
+          "price": 120
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 140
+        },
+        {
+          "name": "Paneer Burger",
+          "price": 130
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "price": 135
+        },
+        {
+          "name": "Double Patty Burger",
+          "price": 160
+        },
+        {
+          "name": "Spicy Bean Burger",
+          "price": 125
+        },
+        {
+          "name": "Fish Fillet Burger",
+          "price": 150
+        },
+        {
+          "name": "French Fries (Large)",
+          "price": 60
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Chicken Nuggets (6 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Wrap",
+          "price": 130
+        },
+        {
+          "name": "Milkshake (Vanilla)",
+          "price": 90
+        },
+        {
+          "name": "Soft Drink",
+          "price": 40
+        },
+        {
+          "name": "Brownie",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Burger Singh(Big Punjabi Burgers)",
+      "description": "Burger Singh(Big Punjabi Burgers) located at Patia offers a variety of cuisines including Burgers, Snacks, Desserts, Beverages, Fast Food, American, Indian, Biryani. Current rating is 4.5.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.5,
+      "stock": null,
+      "tags": [
+        "Burgers",
+        "Snacks",
+        "Desserts",
+        "Beverages",
+        "Fast Food",
+        "American",
+        "Indian",
+        "Biryani"
+      ],
+      "brand": "Burger Singh(Big Punjabi Burgers)",
+      "sku": "RES-BURGER-SINGH-006",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/C1ztWVHS/6.jpg",
+      "thumbnail": "https://i.postimg.cc/C1ztWVHS/6.jpg",
+      "menu": [
+        {
+          "name": "Classic Veg Burger",
+          "price": 120
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 140
+        },
+        {
+          "name": "Paneer Burger",
+          "price": 130
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "price": 135
+        },
+        {
+          "name": "Double Patty Burger",
+          "price": 160
+        },
+        {
+          "name": "Spicy Bean Burger",
+          "price": 125
+        },
+        {
+          "name": "Fish Fillet Burger",
+          "price": 150
+        },
+        {
+          "name": "French Fries (Large)",
+          "price": 60
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Chicken Nuggets (6 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Wrap",
+          "price": 130
+        },
+        {
+          "name": "Milkshake (Vanilla)",
+          "price": 90
+        },
+        {
+          "name": "Soft Drink",
+          "price": 40
+        },
+        {
+          "name": "Brownie",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Subway",
+      "description": "Subway located at IRC Colony offers a variety of cuisines including sandwich, Salads, wrap, Healthy Food. Current rating is 4.3.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.3,
+      "stock": null,
+      "tags": [
+        "sandwich",
+        "Salads",
+        "wrap",
+        "Healthy Food"
+      ],
+      "brand": "Subway",
+      "sku": "RES-SUBWAY-007",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "IRC Colony",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/SKZ3TK9g/7.jpg",
+      "thumbnail": "https://i.postimg.cc/SKZ3TK9g/7.jpg",
+      "menu": [
+        {
+          "name": "Water Bottle",
+          "price": 20
+        },
+        {
+          "name": "Soft Drink (Can)",
+          "price": 30
+        },
+        {
+          "name": "French Fries (Small)",
+          "price": 70
+        },
+        {
+          "name": "Chocolate Milkshake",
+          "price": 120
+        },
+        {
+          "name": "Veg Sandwich",
+          "price": 90
+        },
+        {
+          "name": "Chicken Sandwich",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 80
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 100
+        },
+        {
+          "name": "Green Salad",
+          "price": 60
+        },
+        {
+          "name": "Tomato Soup",
+          "price": 80
+        },
+        {
+          "name": "Ice Cream Scoop",
+          "price": 50
+        },
+        {
+          "name": "Brownie",
+          "price": 90
+        },
+        {
+          "name": "Coffee",
+          "price": 70
+        },
+        {
+          "name": "Tea",
+          "price": 50
+        },
+        {
+          "name": "Fresh Juice",
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Burger King",
+      "description": "Burger King located at Jayadev Vihar offers a variety of cuisines including Burgers, American. Current rating is 4.6.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.6,
+      "stock": null,
+      "tags": [
+        "Burgers",
+        "American"
+      ],
+      "brand": "Burger King",
+      "sku": "RES-BURGER-KING-008",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Jayadev Vihar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/6Q6FfZ87/8.jpg",
+      "thumbnail": "https://i.postimg.cc/6Q6FfZ87/8.jpg",
+      "menu": [
+        {
+          "name": "Classic Veg Burger",
+          "price": 120
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 140
+        },
+        {
+          "name": "Paneer Burger",
+          "price": 130
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "price": 135
+        },
+        {
+          "name": "Double Patty Burger",
+          "price": 160
+        },
+        {
+          "name": "Spicy Bean Burger",
+          "price": 125
+        },
+        {
+          "name": "Fish Fillet Burger",
+          "price": 150
+        },
+        {
+          "name": "French Fries (Large)",
+          "price": 60
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Chicken Nuggets (6 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Wrap",
+          "price": 130
+        },
+        {
+          "name": "Milkshake (Vanilla)",
+          "price": 90
+        },
+        {
+          "name": "Soft Drink",
+          "price": 40
+        },
+        {
+          "name": "Brownie",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Goila Butter Chicken",
+      "description": "Goila Butter Chicken located at Prachi Enclave Rd offers a variety of cuisines including North Indian, Biryani, Kebabs, Desserts. Current rating is 4.4.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.4,
+      "stock": null,
+      "tags": [
+        "North Indian",
+        "Biryani",
+        "Kebabs",
+        "Desserts"
+      ],
+      "brand": "Goila Butter Chicken",
+      "sku": "RES-GOILA-BUTTER-009",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Prachi Enclave Rd",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/DwPtG6wk/9.jpg",
+      "thumbnail": "https://i.postimg.cc/DwPtG6wk/9.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Bahubelly",
+      "description": "The Bahubelly located at Jagmohan Nagar offers a variety of cuisines including Burgers, American, Fast Food. Current rating is 4.4.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.4,
+      "stock": null,
+      "tags": [
+        "Burgers",
+        "American",
+        "Fast Food"
+      ],
+      "brand": "The Bahubelly",
+      "sku": "RES-THE-BAHUBELL-010",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Jagmohan Nagar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/mgsvhJRy/10.jpg",
+      "thumbnail": "https://i.postimg.cc/mgsvhJRy/10.jpg",
+      "menu": [
+        {
+          "name": "Classic Veg Burger",
+          "price": 120
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 140
+        },
+        {
+          "name": "Paneer Burger",
+          "price": 130
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "price": 135
+        },
+        {
+          "name": "Double Patty Burger",
+          "price": 160
+        },
+        {
+          "name": "Spicy Bean Burger",
+          "price": 125
+        },
+        {
+          "name": "Fish Fillet Burger",
+          "price": 150
+        },
+        {
+          "name": "French Fries (Large)",
+          "price": 60
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Chicken Nuggets (6 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Wrap",
+          "price": 130
+        },
+        {
+          "name": "Milkshake (Vanilla)",
+          "price": 90
+        },
+        {
+          "name": "Soft Drink",
+          "price": 40
+        },
+        {
+          "name": "Brownie",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Biggies Burger",
+      "description": "Biggies Burger located at Patia offers a variety of cuisines including American, Fast Food, Beverages. Current rating is 4.6.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.6,
+      "stock": null,
+      "tags": [
+        "American",
+        "Fast Food",
+        "Beverages"
+      ],
+      "brand": "Biggies Burger",
+      "sku": "RES-BIGGIES-BURG-011",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/SNC0Sk0K/11.jpg",
+      "thumbnail": "https://i.postimg.cc/SNC0Sk0K/11.jpg",
+      "menu": [
+        {
+          "name": "French Fries",
+          "price": 60
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Strips",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Corn Dog",
+          "price": 90
+        },
+        {
+          "name": "Hot Dog",
+          "price": 105
+        },
+        {
+          "name": "Cheesy Nachos",
+          "price": 120
+        },
+        {
+          "name": "Veggie Sandwich",
+          "price": 95
+        },
+        {
+          "name": "Club Sandwich",
+          "price": 125
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 115
+        },
+        {
+          "name": "Paneer Roll",
+          "price": 110
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 70
+        },
+        {
+          "name": "Lemonade",
+          "price": 60
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Pastas By Pizza Hut",
+      "description": "Pastas By Pizza Hut located at Jayadev Vihar offers a variety of cuisines including Pastas. Current rating is 4.0.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.0,
+      "stock": null,
+      "tags": [
+        "Pastas"
+      ],
+      "brand": "Pastas By Pizza Hut",
+      "sku": "RES-PASTAS-BY-PI-012",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Jayadev Vihar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/1RLh14jT/12.jpg",
+      "thumbnail": "https://i.postimg.cc/1RLh14jT/12.jpg",
+      "menu": [
+        {
+          "name": "Water Bottle",
+          "price": 20
+        },
+        {
+          "name": "Soft Drink (Can)",
+          "price": 30
+        },
+        {
+          "name": "French Fries (Small)",
+          "price": 70
+        },
+        {
+          "name": "Chocolate Milkshake",
+          "price": 120
+        },
+        {
+          "name": "Veg Sandwich",
+          "price": 90
+        },
+        {
+          "name": "Chicken Sandwich",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 80
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 100
+        },
+        {
+          "name": "Green Salad",
+          "price": 60
+        },
+        {
+          "name": "Tomato Soup",
+          "price": 80
+        },
+        {
+          "name": "Ice Cream Scoop",
+          "price": 50
+        },
+        {
+          "name": "Brownie",
+          "price": 90
+        },
+        {
+          "name": "Coffee",
+          "price": 70
+        },
+        {
+          "name": "Tea",
+          "price": 50
+        },
+        {
+          "name": "Fresh Juice",
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Biryani Badshah",
+      "description": "Biryani Badshah located at Chandrasekharpur offers a variety of cuisines including Biryani, Hyderabadi, Andhra, South Indian, North Indian, Mughlai, Kebabs. Current rating is 4.3.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.3,
+      "stock": null,
+      "tags": [
+        "Biryani",
+        "Hyderabadi",
+        "Andhra",
+        "South Indian",
+        "North Indian",
+        "Mughlai",
+        "Kebabs"
+      ],
+      "brand": "Biryani Badshah",
+      "sku": "RES-BIRYANI-BADS-013",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Chandrasekharpur",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/Y24KPQbY/13.jpg",
+      "thumbnail": "https://i.postimg.cc/Y24KPQbY/13.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "GetAWay-Ice Creams & Desserts",
+      "description": "GetAWay-Ice Creams & Desserts located at Chandrasekharpur offers a variety of cuisines including Ice Cream, Desserts, Healthy Food. Current rating is 4.7.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.7,
+      "stock": null,
+      "tags": [
+        "Ice Cream",
+        "Desserts",
+        "Healthy Food"
+      ],
+      "brand": "GetAWay-Ice Creams & Desserts",
+      "sku": "RES-GETAWAY-ICE--014",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Chandrasekharpur",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/z3mktspt/14.jpg",
+      "thumbnail": "https://i.postimg.cc/z3mktspt/14.jpg",
+      "menu": [
+        {
+          "name": "Chocolate Brownie",
+          "price": 110
+        },
+        {
+          "name": "Vanilla Ice Cream",
+          "price": 100
+        },
+        {
+          "name": "Strawberry Cheesecake",
+          "price": 150
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Rasgulla (2 pcs)",
+          "price": 75
+        },
+        {
+          "name": "Tiramisu",
+          "price": 160
+        },
+        {
+          "name": "Fruit Salad",
+          "price": 90
+        },
+        {
+          "name": "Panna Cotta",
+          "price": 140
+        },
+        {
+          "name": "Apple Pie",
+          "price": 130
+        },
+        {
+          "name": "Molten Lava Cake",
+          "price": 155
+        },
+        {
+          "name": "Kulfi",
+          "price": 85
+        },
+        {
+          "name": "Falooda",
+          "price": 120
+        },
+        {
+          "name": "Jalebi",
+          "price": 70
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 95
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Bigguys Wings & More",
+      "description": "Bigguys Wings & More located at Old BBSR offers a variety of cuisines including Burgers, Fast Food. Current rating is 4.5.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.5,
+      "stock": null,
+      "tags": [
+        "Burgers",
+        "Fast Food"
+      ],
+      "brand": "Bigguys Wings & More",
+      "sku": "RES-BIGGUYS-WING-015",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Old BBSR",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/GtTQjLPT/15.jpg",
+      "thumbnail": "https://i.postimg.cc/GtTQjLPT/15.jpg",
+      "menu": [
+        {
+          "name": "Classic Veg Burger",
+          "price": 120
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 140
+        },
+        {
+          "name": "Paneer Burger",
+          "price": 130
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "price": 135
+        },
+        {
+          "name": "Double Patty Burger",
+          "price": 160
+        },
+        {
+          "name": "Spicy Bean Burger",
+          "price": 125
+        },
+        {
+          "name": "Fish Fillet Burger",
+          "price": 150
+        },
+        {
+          "name": "French Fries (Large)",
+          "price": 60
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Chicken Nuggets (6 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Wrap",
+          "price": 130
+        },
+        {
+          "name": "Milkshake (Vanilla)",
+          "price": 90
+        },
+        {
+          "name": "Soft Drink",
+          "price": 40
+        },
+        {
+          "name": "Brownie",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Rajdhani Fast Food",
+      "description": "Rajdhani Fast Food located at Old Bbsr offers a variety of cuisines including Tandoor, Chinese, Biryani, Snacks. Current rating is 3.6.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 3.6,
+      "stock": null,
+      "tags": [
+        "Tandoor",
+        "Chinese",
+        "Biryani",
+        "Snacks"
+      ],
+      "brand": "Rajdhani Fast Food",
+      "sku": "RES-RAJDHANI-FAS-016",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Old Bbsr",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/rmPjW04L/16.jpg",
+      "thumbnail": "https://i.postimg.cc/rmPjW04L/16.jpg",
+      "menu": [
+        {
+          "name": "Veg Hakka Noodles",
+          "price": 130
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 150
+        },
+        {
+          "name": "Chilli Paneer",
+          "price": 160
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 170
+        },
+        {
+          "name": "Veg Spring Rolls",
+          "price": 120
+        },
+        {
+          "name": "Gobi Manchurian",
+          "price": 140
+        },
+        {
+          "name": "Schezwan Fried Rice",
+          "price": 155
+        },
+        {
+          "name": "Sweet Corn Soup",
+          "price": 80
+        },
+        {
+          "name": "Hot & Sour Soup",
+          "price": 85
+        },
+        {
+          "name": "Chicken Lollipop",
+          "price": 165
+        },
+        {
+          "name": "Prawns in Hot Garlic Sauce",
+          "price": 190
+        },
+        {
+          "name": "Veg Momos (Steamed)",
+          "price": 110
+        },
+        {
+          "name": "Chicken Momos (Fried)",
+          "price": 125
+        },
+        {
+          "name": "Kimchi Salad",
+          "price": 70
+        },
+        {
+          "name": "Date Pancake",
+          "price": 95
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Veg Daawat by Behrouz",
+      "description": "Veg Daawat by Behrouz located at Patia offers a variety of cuisines including Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts. Current rating is 4.3.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.3,
+      "stock": null,
+      "tags": [
+        "Biryani",
+        "North Indian",
+        "Kebabs",
+        "Mughlai",
+        "Beverages",
+        "Desserts"
+      ],
+      "brand": "Veg Daawat by Behrouz",
+      "sku": "RES-VEG-DAAWAT-B-017",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/DZZ58d8g/17.jpg",
+      "thumbnail": "https://i.postimg.cc/DZZ58d8g/17.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Delights by INOX",
+      "description": "Delights by INOX located at Sahid Nagar offers a variety of cuisines including Snacks. Current rating is 4.3.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.3,
+      "stock": null,
+      "tags": [
+        "Snacks"
+      ],
+      "brand": "Delights by INOX",
+      "sku": "RES-DELIGHTS-BY--018",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Sahid Nagar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/zfp0zPXv/18.jpg",
+      "thumbnail": "https://i.postimg.cc/zfp0zPXv/18.jpg",
+      "menu": [
+        {
+          "name": "Water Bottle",
+          "price": 20
+        },
+        {
+          "name": "Soft Drink (Can)",
+          "price": 30
+        },
+        {
+          "name": "French Fries (Small)",
+          "price": 70
+        },
+        {
+          "name": "Chocolate Milkshake",
+          "price": 120
+        },
+        {
+          "name": "Veg Sandwich",
+          "price": 90
+        },
+        {
+          "name": "Chicken Sandwich",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 80
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 100
+        },
+        {
+          "name": "Green Salad",
+          "price": 60
+        },
+        {
+          "name": "Tomato Soup",
+          "price": 80
+        },
+        {
+          "name": "Ice Cream Scoop",
+          "price": 50
+        },
+        {
+          "name": "Brownie",
+          "price": 90
+        },
+        {
+          "name": "Coffee",
+          "price": 70
+        },
+        {
+          "name": "Tea",
+          "price": 50
+        },
+        {
+          "name": "Fresh Juice",
+          "price": 110
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Laziz Pizza",
+      "description": "Laziz Pizza located at Rasulgarh offers a variety of cuisines including Pizzas, Burgers, Snacks, Desserts, Beverages, Fast Food, Pastas. Current rating is 4.0.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.0,
+      "stock": null,
+      "tags": [
+        "Pizzas",
+        "Burgers",
+        "Snacks",
+        "Desserts",
+        "Beverages",
+        "Fast Food",
+        "Pastas"
+      ],
+      "brand": "Laziz Pizza",
+      "sku": "RES-LAZIZ-PIZZA-019",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Rasulgarh",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/ZqJwhhmX/19.jpg",
+      "thumbnail": "https://i.postimg.cc/ZqJwhhmX/19.jpg",
+      "menu": [
+        {
+          "name": "Margherita Pizza",
+          "price": 150
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "price": 175
+        },
+        {
+          "name": "Veggie Supreme Pizza",
+          "price": 160
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 180
+        },
+        {
+          "name": "Farmhouse Pizza",
+          "price": 165
+        },
+        {
+          "name": "Paneer Makhani Pizza",
+          "price": 170
+        },
+        {
+          "name": "Double Cheese Pizza",
+          "price": 155
+        },
+        {
+          "name": "Mushroom Delight Pizza",
+          "price": 160
+        },
+        {
+          "name": "Spicy Chicken Pizza",
+          "price": 185
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "price": 170
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "price": 190
+        },
+        {
+          "name": "Garlic Breadsticks",
+          "price": 70
+        },
+        {
+          "name": "Cheesy Garlic Bread",
+          "price": 80
+        },
+        {
+          "name": "Coca-Cola (500ml)",
+          "price": 40
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Pizza Box",
+      "description": "Pizza Box located at Chandrashekarpur offers a variety of cuisines including Pizzas. Current rating is 4.5.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.5,
+      "stock": null,
+      "tags": [
+        "Pizzas"
+      ],
+      "brand": "Pizza Box",
+      "sku": "RES-PIZZA-BOX-020",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Chandrashekarpur",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/T3VtS3zr/20.jpg",
+      "thumbnail": "https://i.postimg.cc/T3VtS3zr/20.jpg",
+      "menu": [
+        {
+          "name": "Margherita Pizza",
+          "price": 150
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "price": 175
+        },
+        {
+          "name": "Veggie Supreme Pizza",
+          "price": 160
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 180
+        },
+        {
+          "name": "Farmhouse Pizza",
+          "price": 165
+        },
+        {
+          "name": "Paneer Makhani Pizza",
+          "price": 170
+        },
+        {
+          "name": "Double Cheese Pizza",
+          "price": 155
+        },
+        {
+          "name": "Mushroom Delight Pizza",
+          "price": 160
+        },
+        {
+          "name": "Spicy Chicken Pizza",
+          "price": 185
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "price": 170
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "price": 190
+        },
+        {
+          "name": "Garlic Breadsticks",
+          "price": 70
+        },
+        {
+          "name": "Cheesy Garlic Bread",
+          "price": 80
+        },
+        {
+          "name": "Coca-Cola (500ml)",
+          "price": 40
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Momo Shomo",
+      "description": "Momo Shomo located at Patia offers a variety of cuisines including Chinese, Momos, Fast Food, Street Food, Tibetan, Asian, Indian. Current rating is 4.6.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.6,
+      "stock": null,
+      "tags": [
+        "Chinese",
+        "Momos",
+        "Fast Food",
+        "Street Food",
+        "Tibetan",
+        "Asian",
+        "Indian"
+      ],
+      "brand": "Momo Shomo",
+      "sku": "RES-MOMO-SHOMO-021",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/t4Qr2xMq/21.jpg",
+      "thumbnail": "https://i.postimg.cc/t4Qr2xMq/21.jpg",
+      "menu": [
+        {
+          "name": "Veg Hakka Noodles",
+          "price": 130
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 150
+        },
+        {
+          "name": "Chilli Paneer",
+          "price": 160
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 170
+        },
+        {
+          "name": "Veg Spring Rolls",
+          "price": 120
+        },
+        {
+          "name": "Gobi Manchurian",
+          "price": 140
+        },
+        {
+          "name": "Schezwan Fried Rice",
+          "price": 155
+        },
+        {
+          "name": "Sweet Corn Soup",
+          "price": 80
+        },
+        {
+          "name": "Hot & Sour Soup",
+          "price": 85
+        },
+        {
+          "name": "Chicken Lollipop",
+          "price": 165
+        },
+        {
+          "name": "Prawns in Hot Garlic Sauce",
+          "price": 190
+        },
+        {
+          "name": "Veg Momos (Steamed)",
+          "price": 110
+        },
+        {
+          "name": "Chicken Momos (Fried)",
+          "price": 125
+        },
+        {
+          "name": "Kimchi Salad",
+          "price": 70
+        },
+        {
+          "name": "Date Pancake",
+          "price": 95
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Thalaiva Biryani",
+      "description": "Thalaiva Biryani located at Patia offers a variety of cuisines including Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, Desserts, Beverages. Current rating is 4.3.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.3,
+      "stock": null,
+      "tags": [
+        "Biryani",
+        "Mughlai",
+        "Lucknowi",
+        "Hyderabadi",
+        "Kebabs",
+        "Desserts",
+        "Beverages"
+      ],
+      "brand": "Thalaiva Biryani",
+      "sku": "RES-THALAIVA-BIR-022",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/gk6SVD4t/22.jpg",
+      "thumbnail": "https://i.postimg.cc/gk6SVD4t/22.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Faasos' Signature Wraps & Rolls",
+      "description": "Faasos' Signature Wraps & Rolls located at Patia offers a variety of cuisines including Fast Food, Snacks, North Indian, Desserts, Beverages. Current rating is 4.4.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.4,
+      "stock": null,
+      "tags": [
+        "Fast Food",
+        "Snacks",
+        "North Indian",
+        "Desserts",
+        "Beverages"
+      ],
+      "brand": "Faasos' Signature Wraps & Rolls",
+      "sku": "RES-FAASOS'-SIGN-023",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/pVSc57Qn/23.jpg",
+      "thumbnail": "https://i.postimg.cc/pVSc57Qn/23.jpg",
+      "menu": [
+        {
+          "name": "French Fries",
+          "price": 60
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Strips",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Corn Dog",
+          "price": 90
+        },
+        {
+          "name": "Hot Dog",
+          "price": 105
+        },
+        {
+          "name": "Cheesy Nachos",
+          "price": 120
+        },
+        {
+          "name": "Veggie Sandwich",
+          "price": 95
+        },
+        {
+          "name": "Club Sandwich",
+          "price": 125
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 115
+        },
+        {
+          "name": "Paneer Roll",
+          "price": 110
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 70
+        },
+        {
+          "name": "Lemonade",
+          "price": 60
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "The Pizza Project by Oven Story",
+      "description": "The Pizza Project by Oven Story located at Patia offers a variety of cuisines including Pizzas, Italian, Desserts, Beverages. Current rating is 4.1.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.1,
+      "stock": null,
+      "tags": [
+        "Pizzas",
+        "Italian",
+        "Desserts",
+        "Beverages"
+      ],
+      "brand": "The Pizza Project by Oven Story",
+      "sku": "RES-THE-PIZZA-PR-024",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/QCv6L9Nq/24.jpg",
+      "thumbnail": "https://i.postimg.cc/QCv6L9Nq/24.jpg",
+      "menu": [
+        {
+          "name": "Margherita Pizza",
+          "price": 150
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "price": 175
+        },
+        {
+          "name": "Veggie Supreme Pizza",
+          "price": 160
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 180
+        },
+        {
+          "name": "Farmhouse Pizza",
+          "price": 165
+        },
+        {
+          "name": "Paneer Makhani Pizza",
+          "price": 170
+        },
+        {
+          "name": "Double Cheese Pizza",
+          "price": 155
+        },
+        {
+          "name": "Mushroom Delight Pizza",
+          "price": 160
+        },
+        {
+          "name": "Spicy Chicken Pizza",
+          "price": 185
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "price": 170
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "price": 190
+        },
+        {
+          "name": "Garlic Breadsticks",
+          "price": 70
+        },
+        {
+          "name": "Cheesy Garlic Bread",
+          "price": 80
+        },
+        {
+          "name": "Coca-Cola (500ml)",
+          "price": 40
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Veg Meals by Lunchbox",
+      "description": "Veg Meals by Lunchbox located at Patia offers a variety of cuisines including Biryani, North Indian, Desserts, Beverages. Current rating is 4.5.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.5,
+      "stock": null,
+      "tags": [
+        "Biryani",
+        "North Indian",
+        "Desserts",
+        "Beverages"
+      ],
+      "brand": "Veg Meals by Lunchbox",
+      "sku": "RES-VEG-MEALS-BY-025",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/4yY8FbGd/25.jpg",
+      "thumbnail": "https://i.postimg.cc/4yY8FbGd/25.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Faasos - Wraps, Rolls & Shawarma",
+      "description": "Faasos - Wraps, Rolls & Shawarma located at Patia offers a variety of cuisines including Kebabs, Fast Food, Snacks, American, Healthy Food, Desserts, Beverages. Current rating is 4.5.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.5,
+      "stock": null,
+      "tags": [
+        "Kebabs",
+        "Fast Food",
+        "Snacks",
+        "American",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "brand": "Faasos - Wraps, Rolls & Shawarma",
+      "sku": "RES-FAASOS---WRA-026",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Patia",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/RFssRpjy/26.jpg",
+      "thumbnail": "https://i.postimg.cc/RFssRpjy/26.jpg",
+      "menu": [
+        {
+          "name": "French Fries",
+          "price": 60
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Strips",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Corn Dog",
+          "price": 90
+        },
+        {
+          "name": "Hot Dog",
+          "price": 105
+        },
+        {
+          "name": "Cheesy Nachos",
+          "price": 120
+        },
+        {
+          "name": "Veggie Sandwich",
+          "price": 95
+        },
+        {
+          "name": "Club Sandwich",
+          "price": 125
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 115
+        },
+        {
+          "name": "Paneer Roll",
+          "price": 110
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 70
+        },
+        {
+          "name": "Lemonade",
+          "price": 60
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "The Belgian Waffle Co.",
+      "description": "The Belgian Waffle Co. located at Sahid Nagar offers a variety of cuisines including Waffle, Desserts, Ice Cream, Beverages. Current rating is 4.8.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.8,
+      "stock": null,
+      "tags": [
+        "Waffle",
+        "Desserts",
+        "Ice Cream",
+        "Beverages"
+      ],
+      "brand": "The Belgian Waffle Co.",
+      "sku": "RES-THE-BELGIAN--027",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Sahid Nagar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/ZqLD95jT/27.jpg",
+      "thumbnail": "https://i.postimg.cc/ZqLD95jT/27.jpg",
+      "menu": [
+        {
+          "name": "Chocolate Brownie",
+          "price": 110
+        },
+        {
+          "name": "Vanilla Ice Cream",
+          "price": 100
+        },
+        {
+          "name": "Strawberry Cheesecake",
+          "price": 150
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 80
+        },
+        {
+          "name": "Rasgulla (2 pcs)",
+          "price": 75
+        },
+        {
+          "name": "Tiramisu",
+          "price": 160
+        },
+        {
+          "name": "Fruit Salad",
+          "price": 90
+        },
+        {
+          "name": "Panna Cotta",
+          "price": 140
+        },
+        {
+          "name": "Apple Pie",
+          "price": 130
+        },
+        {
+          "name": "Molten Lava Cake",
+          "price": 155
+        },
+        {
+          "name": "Kulfi",
+          "price": 85
+        },
+        {
+          "name": "Falooda",
+          "price": 120
+        },
+        {
+          "name": "Jalebi",
+          "price": 70
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 95
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Domino's Pizza",
+      "description": "Domino's Pizza located at Saheed Nagar offers a variety of cuisines including Pizzas, Italian, Pastas, Desserts. Current rating is 4.5.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.5,
+      "stock": null,
+      "tags": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+      ],
+      "brand": "Domino's Pizza",
+      "sku": "RES-DOMINO'S-PIZ-028",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Saheed Nagar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/Jn4YjCdj/28.jpg",
+      "thumbnail": "https://i.postimg.cc/Jn4YjCdj/28.jpg",
+      "menu": [
+        {
+          "name": "Margherita Pizza",
+          "price": 150
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "price": 175
+        },
+        {
+          "name": "Veggie Supreme Pizza",
+          "price": 160
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 180
+        },
+        {
+          "name": "Farmhouse Pizza",
+          "price": 165
+        },
+        {
+          "name": "Paneer Makhani Pizza",
+          "price": 170
+        },
+        {
+          "name": "Double Cheese Pizza",
+          "price": 155
+        },
+        {
+          "name": "Mushroom Delight Pizza",
+          "price": 160
+        },
+        {
+          "name": "Spicy Chicken Pizza",
+          "price": 185
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "price": 170
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "price": 190
+        },
+        {
+          "name": "Garlic Breadsticks",
+          "price": 70
+        },
+        {
+          "name": "Cheesy Garlic Bread",
+          "price": 80
+        },
+        {
+          "name": "Coca-Cola (500ml)",
+          "price": 40
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "V Cafe - Meals By PVR",
+      "description": "V Cafe - Meals By PVR located at Goutam Nagar offers a variety of cuisines including Snacks, Fast Food, Beverages. Current rating is 4.0.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 4.0,
+      "stock": null,
+      "tags": [
+        "Snacks",
+        "Fast Food",
+        "Beverages"
+      ],
+      "brand": "V Cafe - Meals By PVR",
+      "sku": "RES-V-CAFE---MEA-029",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Goutam Nagar",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/HLmhsywZ/29.jpg",
+      "thumbnail": "https://i.postimg.cc/HLmhsywZ/29.jpg",
+      "menu": [
+        {
+          "name": "French Fries",
+          "price": 60
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 80
+        },
+        {
+          "name": "Veggie Wrap",
+          "price": 110
+        },
+        {
+          "name": "Chicken Strips",
+          "price": 130
+        },
+        {
+          "name": "Onion Rings",
+          "price": 65
+        },
+        {
+          "name": "Corn Dog",
+          "price": 90
+        },
+        {
+          "name": "Hot Dog",
+          "price": 105
+        },
+        {
+          "name": "Cheesy Nachos",
+          "price": 120
+        },
+        {
+          "name": "Veggie Sandwich",
+          "price": 95
+        },
+        {
+          "name": "Club Sandwich",
+          "price": 125
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 115
+        },
+        {
+          "name": "Paneer Roll",
+          "price": 110
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 70
+        },
+        {
+          "name": "Lemonade",
+          "price": 60
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Biryani Point",
+      "description": "Biryani Point located at Chandrashekarpur offers a variety of cuisines including Biryani, Chinese. Current rating is 3.7.",
+      "category": "restaurant",
+      "price": null,
+      "discountPercentage": null,
+      "rating": 3.7,
+      "stock": null,
+      "tags": [
+        "Biryani",
+        "Chinese"
+      ],
+      "brand": "Biryani Point",
+      "sku": "RES-BIRYANI-POIN-030",
+      "weight": null,
+      "dimensions": null,
+      "warrantyInformation": null,
+      "shippingInformation": null,
+      "availabilityStatus": "Open",
+      "reviews": [],
+      "returnPolicy": null,
+      "minimumOrderQuantity": null,
+      "meta": {
+        "location": "Chandrashekarpur",
+        "createdAt": null,
+        "updatedAt": null,
+        "barcode": null,
+        "qrCode": null
+      },
+      "images": "https://i.postimg.cc/jSP1bX7n/30.jpg",
+      "thumbnail": "https://i.postimg.cc/jSP1bX7n/30.jpg",
+      "menu": [
+        {
+          "name": "Veg Biryani",
+          "price": 150
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 180
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 220
+        },
+        {
+          "name": "Paneer Biryani",
+          "price": 160
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 140
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 190
+        },
+        {
+          "name": "Lucknowi Biryani",
+          "price": 185
+        },
+        {
+          "name": "Raita",
+          "price": 50
+        },
+        {
+          "name": "Mirchi ka Salan",
+          "price": 55
+        },
+        {
+          "name": "Chicken Korma",
+          "price": 170
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 210
+        },
+        {
+          "name": "Shahi Tukda",
+          "price": 80
+        },
+        {
+          "name": "Gulab Jamun (2 pcs)",
+          "price": 70
+        },
+        {
+          "name": "Kheer",
+          "price": 75
+        },
+        {
+          "name": "Buttermilk",
+          "price": 40
+        }
+      ]
+    }
+  ]
+}
